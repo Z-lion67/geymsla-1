@@ -22,6 +22,10 @@ annar texi
 1. item 2
     1. subitem 1
     1. subitem 2
+    1. subitem 3
+    1. subitem 4
+    1. subitem 5
+    1. subitem 6
 
  haus 1 | haus 2 | haus 3 
  --- | --- | ---
@@ -30,4 +34,3 @@ annar texi
 
  [hér](https://www.tskoli.is) er heimasíða tækniskólans.
 
- 
