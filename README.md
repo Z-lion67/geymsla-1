@@ -2,7 +2,4 @@
 prufugeymsla fyrir skólan
 
 
-annar texti
-
-
-og en annar
+annar texi
